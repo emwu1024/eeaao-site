@@ -4,3 +4,8 @@ This is a simple React website built with Vitejs to show case a a styled accordi
 
 - Accordion component: https://github.com/emwu1024/accordion-component
 - Carousel component: https://github.com/emwu1024/carousel-component
+
+### Run
+
+`npm install`
+`npm run dev `
