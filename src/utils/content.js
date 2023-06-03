@@ -11,7 +11,7 @@ export const accordionContent = [
       title: 'Cast',
       content: `Michelle Yeoh as Evelyn Quan Wang, 
       Stephanie Hsu as Joy Wang, 
-      Ke Huy Quan as Waymong Wang, 
+      Ke Huy Quan as Waymond Wang, 
       James Hong as Gong Gong, and 
       Jamie Lee Curtis as Deidre Beaibeidre.`
     },
