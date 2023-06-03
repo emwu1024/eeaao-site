@@ -8,4 +8,6 @@ This is a simple React website built with Vitejs to show case a a styled accordi
 ### Run
 
 `npm install`
+
+
 `npm run dev `
